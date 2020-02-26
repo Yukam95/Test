@@ -4,5 +4,6 @@
     123 cho phuc B1
     B12
     <h2>Huy cho</h2>
+    <?php include('footer.php');?>
 </body>
 </html>
