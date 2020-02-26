@@ -1,6 +1,6 @@
 <html>
 <head>
-    <?php include('header.html'); ?>
+    <?php include('header.php'); ?>
 </head>
 <body>
     <h1>Test</h1>
